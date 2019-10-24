@@ -1,1 +1,1 @@
-the text is changed in the master branch
+i edit this in conflictor
